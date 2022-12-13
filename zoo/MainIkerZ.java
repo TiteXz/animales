@@ -1,9 +1,8 @@
-package mains;
-
 public class MainIkerZ {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		TetraDeAletaSangrante tetri = new TetraDeAletaSangrante();
 
 	}
 
