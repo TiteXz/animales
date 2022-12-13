@@ -9,6 +9,7 @@ public class MainIkerZ {
 		tetri.setPesoGr(36);
 		tetri.setEdadmeses(14);
 		tetri.setCantAletas(3);
+		tetri.presentarme();
 		
 		TetraDeAletaSangrante tetri2 = new TetraDeAletaSangrante();
 
